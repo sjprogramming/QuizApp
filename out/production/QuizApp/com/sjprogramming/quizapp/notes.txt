@@ -1,0 +1,30 @@
+Which statement is true about Java?
+
+a) Java is a sequence-dependent programming language
+b) Java is a code dependent programming language
+c) Java is a platform-dependent programming language
+d) Java is a platform-independent programming language
+
+What is the extension of java code files?
+a) .js
+b) .txt
+c) .class
+d) .java
+
+Who invented Java Programming?
+a) Guido van Rossum
+b) James Gosling
+c) Dennis Ritchie
+d) Bjarne Stroustrup
+
+Which one of the following is not a Java feature?
+a) Object-oriented
+b) Use of pointers
+c) Portable
+d) Dynamic and Extensible
+
+Which of these cannot be used for a variable name in Java?
+a) identifier & keyword
+b) identifier
+c) keyword
+d) none of the mentioned
